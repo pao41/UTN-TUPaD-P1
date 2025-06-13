@@ -2,19 +2,16 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
-## ✨ Estudiante  
-- **Nombre:** Arjona, Paola Yanina del Valle
+TRABAJO PRÁCTICO INTEGRADOR - Programación I
+
+## ✨ Nombre de los integrantes del grupo:
+1.	Arjona Martin Joel
+2.	Arjona Paola Yanina del Valle
 - **Comisión:** M2025-24
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+✨ Tema elegido: BÚSQUEDA Y ORDENAMIENTO
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+✨ Objetivo del Proyecto: Desarrollar un sistema de gestión de inventario en Python que permita cargar datos desde un archivo CSV, ordenar los productos y realizar búsquedas de forma eficiente.
 
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
+✨ Link del video de presentación: TP Integrador Programación: https://www.youtube.com/watch?v=M4RXe8QpJRE
 
