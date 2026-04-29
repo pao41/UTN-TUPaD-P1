@@ -4,9 +4,8 @@
 
 TRABAJO PRÁCTICO INTEGRADOR - Programación I
 
-## ✨ Nombre de los integrantes del grupo:
-1.	Arjona Martin Joel
-2.	Arjona Paola Yanina del Valle
+## ✨ Nombre:
+	Arjona Paola Yanina del Valle
 - **Comisión:** M2025-24
 
 ✨ Tema elegido: BÚSQUEDA Y ORDENAMIENTO
